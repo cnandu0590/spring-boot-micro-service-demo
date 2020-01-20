@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.sample.demo.entity.Course;
+import com.sample.demo.entity.ll;
 import com.sample.demo.entity.Student;
 
 @Repository
